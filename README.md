@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Anusrikannan! 👋
+
+### 👩‍💻 Computer Science Engineering (CSE) Student | Aspiring Developer
+
+🎓 Pursuing Computer Science Engineering (CSE)
+🏫 Saveetha Engineering College
+💻 Learning Python and C Programming
+🤖 Interested in Artificial Intelligence and Technology
+🌱 Always learning and building new skills
+🎯 Aspiring Software Engineer
